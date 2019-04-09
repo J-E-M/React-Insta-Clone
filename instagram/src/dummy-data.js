@@ -93,7 +93,7 @@ const dummyData = [
                 text: "I like how gul'dan looks so old and useless"
             }
         ]
-    }
+    }  
 ];
 
 export default dummyData;
