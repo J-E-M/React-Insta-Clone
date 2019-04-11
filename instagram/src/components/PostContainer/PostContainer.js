@@ -4,13 +4,9 @@ import './PostStyles.css';
 
 const PostContainer = props => {
   return (
-
     <div className="posts-container">
-
       {props.posts.map(post => <Post key={post.imageUrl} post={post} />)}
-
     </div>
-
   );
 };
 
